@@ -9,8 +9,7 @@ name_pronunciation: Chien Shiung Wu
 first_name: Alex
 last_name: Bravo
 
-# Pronouns (optional)
-pronouns: she/her
+
 
 # Status emoji
 status:
